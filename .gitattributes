@@ -1,5 +1,3 @@
-Autor: #albertito
-
 # Auto detect text files and perform LF normalization
 * text=auto
 
@@ -17,5 +15,3 @@ Autor: #albertito
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-
